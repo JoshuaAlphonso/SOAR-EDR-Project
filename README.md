@@ -21,6 +21,7 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 4. Analyst approves full remediation or rollback.
 
 ## 🚀 Demo
+1. Executing a credential dumping payload to trigger the EDR alert based on preconfigured detection rules.
 ![Alt Text](https://i.imgur.com/j7zOZGl.png)
 
 ## 💡 Lessons Learned
