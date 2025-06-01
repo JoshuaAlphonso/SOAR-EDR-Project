@@ -21,7 +21,7 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 4. Analyst approves full remediation or rollback.
 
 ## 🚀 Demo
-
+![Alt Text](https://i.imgur.com/j7zOZGl.png)
 
 ## 💡 Lessons Learned
 - Real-world automation requires balancing **speed vs accuracy**
