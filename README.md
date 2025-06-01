@@ -43,6 +43,8 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 
 - **5.** Although the machine appears to be connected to the internet, any outbound network requests (e.g., ping) result in "General Failure" indicating successful isolation within a sandboxed environment.   
 This showcases how quickly a SOAR system can respond to threats and how effectively the endpoint reacts to isolation, emphasizing the efficiency of automated incident response.
+<br>**Test Machine Connectivity Status:**
+![Alt Text](https://i.imgur.com/SPX5Dk1.png)
 
 
 ## 💡 Lessons Learned
