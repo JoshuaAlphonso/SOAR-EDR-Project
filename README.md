@@ -1,6 +1,6 @@
 # SOAR-EDR-Project
 ## 📌 Project Summary & Objective
-A simple security automation project using LimaCharlie, Tines, Slack, and Email.
+A simple security automation project using LimaCharlie, Tines, Slack, Email and Lazagne (Credential Dumper).
 <br> This project demonstrates a security automation workflow integrating Tines with LimaCharlie to detect, respond to, and remediate threats in real-time.
 
 - 📁 EDR Detection → 🎯 SOAR Playbook → 🔧 Remediation
