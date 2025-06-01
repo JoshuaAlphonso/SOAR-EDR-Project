@@ -21,3 +21,9 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 4. Analyst approves full remediation or rollback.
 
 ## 🚀 Demo
+
+
+## 💡 Lessons Learned
+- Real-world automation requires balancing **speed vs accuracy**
+- SOAR customization is key to avoid false positives
+- API rate limits and error handling matter a lot
