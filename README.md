@@ -23,7 +23,8 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 ## 🚀 Demo
 1. Executing a credential dumping payload to trigger the EDR alert based on preconfigured detection rules.
 ![Alt Text](https://i.imgur.com/j7zOZGl.png)
-
+2. After executing LaZagne, alerts are automatically generated and sent via Slack and email.
+![Alt Text](https://i.imgur.com/4GpiN2U.png)
 ## 💡 Lessons Learned
 - Real-world automation requires balancing **speed vs accuracy**
 - SOAR customization is key to avoid false positives
