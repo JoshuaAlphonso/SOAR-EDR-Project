@@ -19,3 +19,5 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
     - Contain host (EDR API)
     - Notify SOC via Slack & Email
 4. Analyst approves full remediation or rollback.
+
+## 🚀 Demo
