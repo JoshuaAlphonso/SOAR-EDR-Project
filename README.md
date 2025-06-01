@@ -9,3 +9,13 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 
 # Diagram
 ![Alt Text](https://i.imgur.com/m35AdST.jpeg)
+
+## ⚙️ How It Works (Quick Version)
+
+1. EDR detects suspicious activity.
+2. Alert sent via webhook to SOAR.
+3. SOAR playbook triggers:
+    - Fetch IP/domain reputation
+    - Contain host (EDR API)
+    - Notify SOC via Slack & Email
+4. Analyst approves full remediation or rollback.
