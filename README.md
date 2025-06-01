@@ -34,6 +34,8 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 ![Alt Text](https://i.imgur.com/Dx2B7cB.png)
 <br>**Slack:**
 ![Alt Text](https://i.imgur.com/qV2FOUr.png)
+4. If "Yes" is selected, a Slack message is generated confirming the alert details. The message includes the isolation status ("True") and the name of the machine being isolated.
+
 
 ## 💡 Lessons Learned
 - Real-world automation requires balancing **speed vs accuracy**
