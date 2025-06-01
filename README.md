@@ -46,7 +46,7 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 ![Alt Text](https://i.imgur.com/SPX5Dk1.png)
 - **6.** After successfully isolating the machine, you have the option to safely reintegrate it into the network once the threat has been remediated or the investigation is complete.
 This showcases how quickly a SOAR system can respond to threats and how effectively the endpoint reacts to isolation, emphasizing the efficiency of automated incident response.
-<br>**EDR Machine Status** 
+<br>**EDR Machine Status:** 
 
 ![Alt Text](https://i.imgur.com/1P1gIGl.png)
 
