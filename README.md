@@ -32,6 +32,7 @@ A simple security automation project using LimaCharlie, Tines, Slack, Email and 
 <br>**Prompt:**
 ![Alt Text](https://i.imgur.com/Dx2B7cB.png)
 **Slack:**
+![Alt Text](https://i.imgur.com/qV2FOUr.png)
 
 ## 💡 Lessons Learned
 - Real-world automation requires balancing **speed vs accuracy**
