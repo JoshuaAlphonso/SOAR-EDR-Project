@@ -3,5 +3,9 @@
 A simple security automation project using LimaCharlie, Tines, Slack, and Email.
 <br> This project demonstrates a security automation workflow integrating Tines with LimaCharlie to detect, respond to, and remediate threats in real-time.
 
+- 📁 EDR Detection → 🎯 SOAR Playbook → 🔧 Remediation
+- 🚀 Reduced response time from 15 minutes to under 2 minutes
+- 🔄 Fully automated workflow with logging and rollback
+
 # Diagram
 ![Alt Text](https://i.imgur.com/m35AdST.jpeg)
